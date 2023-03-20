@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Aletheia - A corner for truth</title>
+    <link>https://ydche3.github.io/categories/test/</link>
+    <description>Recent content in test on Aletheia - A corner for truth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Mar 2023 00:41:23 +0800</lastBuildDate><atom:link href="https://ydche3.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://ydche3.github.io/post/test2/</link>
+      <pubDate>Tue, 21 Mar 2023 00:41:23 +0800</pubDate>
+      
+      <guid>https://ydche3.github.io/post/test2/</guid>
+      <description>Test2. Testing tags and categories function.</description>
+    </item>
+    
+  </channel>
+</rss>
