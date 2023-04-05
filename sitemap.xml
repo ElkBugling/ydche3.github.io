@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ydche3.github.io/about/</loc>
+    <lastmod>2023-04-05T16:09:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ydche3.github.io/categories/</loc>
     <lastmod>2023-03-21T23:55:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -55,11 +62,6 @@
     <lastmod>2023-03-21T23:55:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ydche3.github.io/about/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
