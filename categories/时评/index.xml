@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GNews on Che&#39;s Blog</title>
-    <link>https://ydche3.github.io/tags/gnews/</link>
-    <description>Recent content in GNews on Che&#39;s Blog</description>
+    <title>时评 on Che&#39;s Blog</title>
+    <link>https://ydche3.github.io/categories/%E6%97%B6%E8%AF%84/</link>
+    <description>Recent content in 时评 on Che&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Mar 2023 23:55:27 +0800</lastBuildDate><atom:link href="https://ydche3.github.io/tags/gnews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Mar 2023 23:55:27 +0800</lastBuildDate><atom:link href="https://ydche3.github.io/categories/%E6%97%B6%E8%AF%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gnews“使用即价值”的实践方案</title>
       <link>https://ydche3.github.io/post/gnews%E4%BD%BF%E7%94%A8%E5%8D%B3%E4%BB%B7%E5%80%BC%E7%9A%84%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%A1%88/</link>
